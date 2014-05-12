@@ -8,8 +8,8 @@
   "dependencies": {
     "passport-local": "0.1.x",
     "passport": "0.2.x",
-    "yar": "1.x.x",
-    "travelogue": "1.x.x",
-    "hapi": "2.x.x"
+    "yar": "2.x.x",
+    "travelogue": "2.x.x",
+    "hapi": "4.x.x"
   }
 }
